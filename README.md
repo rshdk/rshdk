@@ -1,6 +1,6 @@
 ### Hi there, I'm rshdk 👋
 
-I am a developer focused on building hands-on projects to learn software engineering, system automation, and web development from the ground up.
+I am a developer focused on building hands-on projects to learn system automation, and web development from the ground up.
 
 - 🚀 **My Philosophy:** Learning by doing. I build frameworks to understand how complex systems and networks communicate.
 - 🧪 **Pet Projects:**
